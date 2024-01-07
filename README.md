@@ -18,14 +18,14 @@ This repository consists of my singapore flat resale value predictor
 
 -Extract relevant features (town, flat type, storey range, floor area, flat model, lease commence date) and create additional features for improved prediction accuracy.
 
-###Model Selection and Training:
+### Model Selection and Training:
 
 Choose a regression model (e.g., linear regression, decision trees, or random forests), and train it on a portion of the dataset for historical resale flat transactions.
 
-###Model Evaluation:
+### Model Evaluation:
 
 Assess predictive performance using regression metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R2 Score.
 
-###Streamlit Web Application:
+### Streamlit Web Application:
 
 Develop a user-friendly web application using Streamlit, allowing users to input flat details for resale price prediction based on the trained machine learning model.
